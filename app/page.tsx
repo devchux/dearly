@@ -17,7 +17,9 @@ function WritingRoomFallback() {
       <SiteHeader />
       <main id="studio">
         <StudioIntro />
-        <p role="status" className="text-center py-12">Preparing your writing room…</p>
+        <p role="status" className="text-center py-12">
+          Preparing your writing room…
+        </p>
       </main>
     </div>
   );
